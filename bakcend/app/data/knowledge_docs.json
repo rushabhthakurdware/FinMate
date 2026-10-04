@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Fixed Deposits (FD) & Recurring Deposits (RD)",
+    "category": "Fixed Income",
+    "content": "Fixed Deposits (FD) and Recurring Deposits (RD) are low-risk bank instruments offering guaranteed returns (typically 6.0% to 7.5% per annum). Key features: Insured up to ₹5 Lakhs by DICGC in India. Interest earned is added to taxable income under 'Income from Other Sources' and subject to TDS if interest exceeds threshold limits. Liquidity is moderate with minor premature withdrawal penalty fees."
+  },
+  {
+    "title": "Equity Mutual Funds & Systematic Investment Plans (SIP)",
+    "category": "Equity",
+    "content": "Equity Mutual Funds pool money from multiple investors to buy shares of publicly listed companies. SIPs (Systematic Investment Plans) allow investing fixed monthly amounts to benefit from rupee cost averaging. Expected long-term return: 12% to 15% CAGR. Risk is high in short term but moderate in long term (5+ years). Equity Capital Gains Tax: Short Term Capital Gains (STCG) taxed at 20%, Long Term Capital Gains (LTCG) above ₹1.25 Lakh taxed at 12.5%."
+  },
+  {
+    "title": "Public Provident Fund (PPF) & National Pension System (NPS)",
+    "category": "Tax Saving & Retirement",
+    "content": "PPF is a government-backed 15-year tax-saving instrument under EEE (Exempt-Exempt-Exempt) status offering ~7.1% interest. Maximum investment ₹1.5 Lakh/year under Section 80C. NPS is a market-linked retirement scheme offering additional ₹50,000 tax deduction under Section 80CCD(1B) with flexible equity-to-debt asset allocation choices."
+  },
+  {
+    "title": "Gold & Sovereign Gold Bonds (SGB)",
+    "category": "Commodities",
+    "content": "Gold acts as a safe-haven asset and inflation hedge. Physical gold incurs making charges and storage risks. Digital Gold offers lower entry barriers. Sovereign Gold Bonds (SGBs) issued by the RBI pay an additional 2.5% fixed interest per year and feature tax-free capital gains if held until maturity (8 years)."
+  },
+  {
+    "title": "Cryptocurrency Investments",
+    "category": "Alternative Assets",
+    "content": "Cryptocurrencies like Bitcoin and Ethereum are highly speculative, unregulated assets with extreme price volatility. Returns range from huge gains to total loss. In India, crypto profits are taxed at a flat 30% without indexation or loss set-off benefits, along with 1% TDS on transactions."
+  }
+]

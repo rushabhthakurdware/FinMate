@@ -1,0 +1,9 @@
+{
+  "Food & Dining": ["swiggy", "zomato", "dominos", "mcdonalds", "kfc", "starbucks", "dunkin", "cafe", "restaurant", "burger", "pizza", "subway"],
+  "Groceries": ["zepto", "blinkit", "instamart", "bigbasket", "grofers", "supermarket", "mart", "dmart", "reliance fresh"],
+  "Transportation": ["uber", "ola", "rapido", "metro", "irctc", "petrol", "shell", "fuel", "parking", "fastag"],
+  "Shopping & Retail": ["amazon", "flipkart", "myntra", "ajio", "zara", "h&m", "nykaa", "meesho", "decathlon"],
+  "Entertainment & Subscriptions": ["netflix", "spotify", "prime video", "youtube", "hotstar", "bookmyshow", "apple.com", "steam"],
+  "Bills & Utilities": ["electricity", "water bill", "airtel", "jio", "vi bill", "broadband", "gas agency", "bescom"],
+  "Healthcare": ["pharmacy", "apollo", "1mg", "practo", "hospital", "lab", "medplus"]
+}
