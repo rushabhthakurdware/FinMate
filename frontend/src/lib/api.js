@@ -2,7 +2,7 @@ import axios from 'axios';
 import { supabase } from './supabase';
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000',
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://finmate-backend-bjq1.onrender.com',
 });
 
 // Automatically inject Supabase JWT token into outgoing FastAPI requests
